@@ -1,0 +1,5 @@
+Total word count = 6
+ Total number of sentences = 6
+ Total number of characters = 21
+ Number of paragraphs = 1
+ Total number of whitespaces = 15

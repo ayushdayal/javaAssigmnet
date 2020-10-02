@@ -13,8 +13,8 @@ public class rectangle {
 	rectangle(){
 	  length = breadth = 0;	
 	};
-	rectangle(int x,int y){
-		length = x; breadth = y;
+	rectangle(int r,int y){
+		length = r; breadth = y;
 	}
 	void setValue(int x,int y){
 		length = x; breadth = y;	
